@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyam Singh</h1>
 <h3 align="center">Software developer fueled by curiosity and a love for building things. Thrives in project-based learning environments.</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Lucifer1811/Lucifer1811/assets/98603982/a5c6a332-9294-41ac-97c7-c8ba41716657)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer1811&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer1811" /> </p>
 
