@@ -7,7 +7,7 @@ Software Developer
 
 I have a passion for coding and building products from scratch, a quality that serves as both my greatest strength and weakness. I am actively looking for Remote opportunities.
 
-* 🖥️  See my portfolio at [divyamsingh-portfolio.netlify.app](http://divyamsingh-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [divyamsingh-portfolio.netlify.app](http://singhdivyam.netlify.app/)
 * ✉️  You can contact me at [s.divyam1802@gmail.com](mailto:s.divyam1802@gmail.com)
 * 🤝  I'm open to collaborating on PERN, Django, Flutter, LLM or any AI/ML projects
 
